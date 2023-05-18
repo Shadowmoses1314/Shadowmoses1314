@@ -26,7 +26,8 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" title="Linux" alt="Linux"/>&nbsp;
     <img src="https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c&logoColor=white" title="C" alt="C"/>&nbsp;
-    <img src="https://img.shields.io/badge/LATEX-%23008080.svg?style=flat&logo=latex&logoColor=white" title="Latex" alt="Latex"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" title="Docker" alt="Docker"/>;
+
 </div>
 
 <!-- ### My stats:
