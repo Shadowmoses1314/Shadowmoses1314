@@ -25,11 +25,8 @@
     <img src="https://img.shields.io/badge/NGINX-%23009639.svg?style=flat&logo=nginx&logoColor=white" title="Nginx" alt="Nginx"/>&nbsp;
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" title="Linux" alt="Linux"/>&nbsp;
-    <img src="https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c&logoColor=white" title="C" alt="C"/>&nbsp;
+    <img src="https://img.shields.io/badge/CI/CD-0172C8?style=flat&logo=devops&logoColor=white" title="CI/CD" alt="CI/CD"/>&nbsp;
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" title="Docker" alt="Docker"/>
 
 </div>
 
-<!-- ### My stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TIoJIuHa&theme=tokyonight&background=000000)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats-tiojiuha.vercel.app//api/top-langs/?username=TIoJIuHa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
