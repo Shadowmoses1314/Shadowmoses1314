@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=1000&center=True&color=0088cc&font=Ultra&size=25&lines=Hi+there%2C+I'm+Polina+👋🏻)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=1000&center=True&color=0088cc&font=Ultra&size=25&lines=Hi+there%2C+I'm+Grisha+👋🏻)](https://git.io/typing-svg)  
 **Former math and computer science teacher who became a python developer.**
 
 ### Here you can find me:
